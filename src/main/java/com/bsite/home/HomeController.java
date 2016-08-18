@@ -19,7 +19,7 @@ public class HomeController {
 	//1231234555544
 	//555
 	//77777
-	//bzvzvzvzzvz
+	//bzvzvzvzzvzr가나다라
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
